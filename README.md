@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 ## Brainteaser
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
