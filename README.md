@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 ## Brainteaser
 |  |
@@ -22,4 +23,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
