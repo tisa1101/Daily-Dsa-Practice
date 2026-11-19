@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Brainteaser
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
