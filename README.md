@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/0005-longest-palindromic-substring) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2540-minimum-common-value](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/2540-minimum-common-value) |
 ## Binary Search
@@ -72,5 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/0043-multiply-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
