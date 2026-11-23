@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/0043-multiply-strings) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 ## Hash Table
 |  |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/0043-multiply-strings) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
