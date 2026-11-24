@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2540-minimum-common-value](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/tisa1101/Daily-Dsa-Practice/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
